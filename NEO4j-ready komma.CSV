@@ -1,4 +1,4 @@
-country,cou_relationship_com -->,company,com_relationship_tra -->,tracker,t_relationship_cat -->,category
+country,cou_relationship_com ,company,com_relationship_tra,tracker,t_relationship_cat,category
 USA,besitzt,google,unterteilt sich in,gstatic,trackt mittels,cdn
 USA,besitzt,google,unterteilt sich in,google_tag_manager,trackt mittels,essential
 USA,besitzt,google,unterteilt sich in,google_analytics,trackt mittels,site_analytics
